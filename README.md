@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am in the process of becoming a Full Stack Developer.<br>🌱 I am currently learning to work with Frameworks<br>💬 ask me for:<br>HTML<br>CSS<br>JS<br>BOOTSTRAP<br>MYSQL<br>PHP<br>REACT JS<br>LARAVEL
+🔭 I am in the process of becoming a Full Stack Developer.<br>🌱 I am currently learning to work with Frameworks<br>💬 ask me for:<br>HTML<br>CSS<br>JS<br>BOOTSTRAP<br>MYSQL<br>PHP<br>Python>br>REACT JS
 
 
 ## 🌐 Socials:
